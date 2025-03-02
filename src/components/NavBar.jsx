@@ -248,7 +248,7 @@ const NavBar = () => {
           <ul className="hidden md:flex space-x-6 font-medium text-white">
             {[HelpCircle, Globe, User].map((Icon, index) => (
               <a href="#" key={index}>
-                <Icon className="w-8 h-8 text-white group-hover:text-black transition-colors duration-300" />
+                <Icon className="w-7 h-7 text-white group-hover:text-black transition-colors duration-300" />
               </a>
             ))}
           </ul>
