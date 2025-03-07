@@ -13,8 +13,8 @@ const Second = () => {
         />
         <div className="absolute inset-0 flex flex-col top-30 bottom-45 items-center justify-between text-center text-white ">
           <div className="space-y-2">
-            <h1 className="text-8xl font-bold">New Model Y</h1>
-            <p className="text-3xl font-bold ">Deliveries Begin in March</p>
+            <h1 className="primary-text">New Model Y</h1>
+            <p className="small-text">Deliveries Begin in March</p>
           </div>
 
           <div className="flex gap-4 mt-8">

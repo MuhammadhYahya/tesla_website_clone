@@ -11,7 +11,7 @@ const Ninth = () => {
         />
         <div className="absolute inset-0 flex flex-col justify-between top-20 bottom-30 items-center  text-center text-white ">
           <div className="space-y-2">
-            <h1 className="text-7xl font-bold">Powerwall</h1>
+            <h1 className="md:text-7xl text-6xl font-bold">Powerwall</h1>
           </div>
 
           <div className="flex gap-4 mt-8">

@@ -16,7 +16,7 @@ const Fourth = () => {
         <div className="absolute inset-0 flex flex-col top-45 bottom-25 items-center justify-between text-center text-white ">
           <div className="space-y-2">
             <img src={styleImg} alt="" className="mx-auto scale-125" />
-            <h5 className="text-3xl font-bold ">
+            <h5 className="small-text">
               $7,500 Federal Tax Credit Available
             </h5>
 

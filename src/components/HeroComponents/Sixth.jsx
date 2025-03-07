@@ -12,8 +12,8 @@ const Sixth = () => {
         />
         <div className="absolute inset-0 flex flex-col top-30 bottom-25 items-center justify-between text-center text-white ">
           <div className="space-y-2">
-            <h1 className="text-8xl font-bold">Model S</h1>
-            <p className="text-3xl font-bold ">Free Supercharging Included</p>
+            <h1 className="primary-text">Model S</h1>
+            <p className="small-text">Free Supercharging Included</p>
             <div className="w-fit mx-auto">
               <p className="text-2xl font-bold">$998/mo Leasing</p>
               <hr className="border-t-2 border-white w-full" />

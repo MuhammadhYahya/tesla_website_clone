@@ -1,1 +1,15 @@
 @import "tailwindcss";
+
+@layer components {
+    .primary-text {
+      @apply md:text-8xl text-6xl font-bold ;
+    }
+  
+    .secondary-text {
+      @apply md:text-6xl text-4xl font-medium;
+    }
+  
+    .small-text {
+      @apply md:text-3xl text-2xl font-bold;
+    }
+  }

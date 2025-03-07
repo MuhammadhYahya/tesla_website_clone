@@ -50,12 +50,10 @@ const Hero = () => {
         {/* Hero Content */}
         <div className="absolute inset-0 flex flex-col top-30 items-center text-center text-white">
           <div className="space-y-2">
-            <h1 className="text-8xl font-bold">Model Y</h1>
-            <h2 className="text-6xl font-medium ">$299/mo Leasing</h2>
+            <h1 className="primary-text">Model Y</h1>
+            <h2 className="secondary-text">$299/mo Leasing</h2>
             <hr className="my-3" />
-            <p className="text-3xl font-bold ">
-              From $31,490* After Est. Savings
-            </p>
+            <p className="small-text">From $31,490* After Est. Savings</p>
           </div>
 
           <div className="flex gap-4 mt-8">
