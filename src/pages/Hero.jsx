@@ -4,7 +4,7 @@ import img from "../assets/heroimg.avif";
 import NavBar from "../components/NavBar";
 import Second from "../components/HeroComponents/Second";
 import Third from "../components/HeroComponents/Third";
-import Fourth from "../components/HeroComponents/fourth";
+import Fourth from "../components/HeroComponents/Fourth";
 import Fifth from "../components/HeroComponents/Fifth";
 import Sixth from "../components/HeroComponents/Sixth";
 import Seventh from "../components/HeroComponents/Seventh";
